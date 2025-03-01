@@ -16,7 +16,6 @@ The open source repo for quick links to some really amazing websites to help you
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dario-maselli/WebDevEssentials?style=flat&color=brown)
 
 ## <span style="color:blue">Content</span>
-
 <!-- toc -->
 
 - [Quick Starters to get your projects up and running](#quick-starters-to-get-your-projects-up-and-running)
@@ -29,6 +28,7 @@ The open source repo for quick links to some really amazing websites to help you
 - [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
 - [Some Cool Concepts](#some-cool-concepts)
 - [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
+- [Cool planning tools](#)
 - [Contributors](#contributors)
 
 <!-- tocstop -->
