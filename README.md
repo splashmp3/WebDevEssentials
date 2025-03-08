@@ -28,7 +28,7 @@ The open source repo for quick links to some really amazing websites to help you
 - [Some documents on ideas with everything covered above](#some-documents-on-ideas-with-everything-covered-above)
 - [Some Cool Concepts](#some-cool-concepts)
 - [How about some AI chatbot integration?](#how-about-some-ai-chatbot-integration)
-- [Amazing pre built ui elements](#amazing-pre-built-ui-elements)
+- [Amazing pre-built ui elements](#amazing-pre-built-ui-elements)
 - [Contributors](#contributors)
 
 <!-- tocstop -->
@@ -264,7 +264,7 @@ AWS service for building conversational interfaces using voice and text. It prov
 
 An open-source machine learning framework for building AI assistants and chatbots. Providing tools for natural language understanding and dialogue management, allowing developers to create custom AI solutions.
 
-## Amazing pre built ui elements
+## Amazing pre-built ui elements
 
 These are going to speed up your process.
 
